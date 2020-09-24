@@ -1,1 +1,1 @@
-from instagram_scraper.app import InstagramScraper
+from .app import InstagramScraper
